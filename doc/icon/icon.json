@@ -1,12 +1,16 @@
 {
-    "name": "<name>",
+    "name": "Clank",
     "license": "Public Domain",
-    "url": "<url>",
+    "url": "https://thenounproject.com/term/clank/738702/",
     "author": {
-        "name": "<author>",
-        "url": "<author url>"
+        "name": "MICHAEL G BROWN",
+        "url": "https://thenounproject.com/theTrueMikeBrown"
     },
     "tags": [
-        "<tags>"
+        "Clank",
+        "Ai",
+        "Gearhead",
+        "Golem",
+        "Robot"
     ]
 }
