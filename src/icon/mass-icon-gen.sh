@@ -15,4 +15,8 @@ do
     mkdir -p docs/tools/
     cp $ds1 docs/tools/docker-icon.sh
     cp $ds2 docs/tools/icon-gen.sh
+
+    sh docs/tools/docker-icon.sh
+    mv docs/icon/images/icon-256.png docs/icon/icon.png
+    
 done
