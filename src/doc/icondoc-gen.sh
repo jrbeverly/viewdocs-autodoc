@@ -2,8 +2,8 @@
 DIR=$(dirname "$(readlink -f "$0")")
 DIR_DOCS=$(dirname "$DIR")
 
-JSON_FILE="$DIR_DOCS/docs.json"
-TEMPLATE_FILE=$1
+JSON_FILE="$1"
+TEMPLATE_FILE="$2"
 
 # 
 # Properties

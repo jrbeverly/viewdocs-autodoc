@@ -1,4 +1,4 @@
-![Project icon](icon.png)
+![Project icon](../../icon/icon.png)
 # ${NAME}
 By [${AUTHOR}](${AUTHOR_URL}), from the [Noun Project](${URL})
 

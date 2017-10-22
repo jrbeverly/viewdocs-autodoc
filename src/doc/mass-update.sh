@@ -11,7 +11,7 @@ do
     echo $dir
     mkdir -p docs/icon/
     touch docs/icon/icon.json
-    touch docs/icon/README.md
+    touch docs/pages/icon.md
 
-    bash $script docs/icon/icon.json $template > docs/icon/README.md
+    bash $script docs/icon/icon.json $template > docs/pages/icon.md
 done
