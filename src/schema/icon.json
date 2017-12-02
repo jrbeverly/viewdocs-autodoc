@@ -1,0 +1,10 @@
+{
+    "name": "string",
+    "license": "string",
+    "url": "url",
+    "author": {
+        "name": "string",
+        "url": "url"
+    },
+    "tags": ["string"]
+}
