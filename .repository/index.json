@@ -1,0 +1,21 @@
+{
+  "slug": "viewdocs-autodoc",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "markdown",
+    "html",
+    "bash",
+    "experiment"
+  ],
+  "languages": [
+    "Dockerfile",
+    "HTML",
+    "Shell"
+  ]
+}
