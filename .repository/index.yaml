@@ -1,0 +1,17 @@
+slug: viewdocs-autodoc
+description: Viewdocs is simple project documentation. It renders Markdown as simple static pages.
+project: workbench
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "markdown",
+    "html",
+    "bash",
+    "experiment"
+  ]
